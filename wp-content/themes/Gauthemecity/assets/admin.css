@@ -1,0 +1,24 @@
+.manage-column.column-thumbnail{
+    width: 150px;
+}
+
+#the-list tr>td{
+    vertical-align: middle;
+}
+
+#the-list tr>th{
+    vertical-align: middle;
+}
+
+.column-sponso .bullet {
+    width: 15px;
+    height: 15px;
+    background-color: lightgreen;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.column-sponso .bullet-no{
+    background-color: lightcoral;
+}
+

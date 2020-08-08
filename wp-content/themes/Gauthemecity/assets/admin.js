@@ -1,0 +1,1 @@
+jQuery(".ft_date_picker").flatpickr({});
